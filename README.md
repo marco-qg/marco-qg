@@ -1,6 +1,4 @@
-![Hi there](./hello.svg)
-
-### Hi there 👋
+<img src="https://github.com/marco-qg/marco-qg/assets/145330494/92a097ec-172e-46c6-852a-69d6d82bdf5e" width=100% height = 300>
 
 <!--
 **marco-qg/marco-qg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
