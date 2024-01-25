@@ -10,5 +10,5 @@
 
 ## One of my interests is Rust, but I'm also interested in learning about other languages aswell.
 
-[Ferris](./ferris.png?sanitize=true)
-[Golang](./Go.png)
+![Ferris](./ferris.png?sanitize=true)
+![Go](https://github.com/marco-qg/marco-qg/assets/145330494/30d40023-cf7f-48a9-aea2-2cf77a4a3312)
