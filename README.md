@@ -10,5 +10,4 @@
 
 ## One of my interests is Rust, but I'm also interested in learning about other languages aswell.
 
-![Ferris](./ferris.png?sanitize=true)
-![Go](./Go.png?sanitize=true)
+- In progress...
